@@ -13,4 +13,6 @@ Siempre me quedo sin ideas para escribir :D.
 
 Otra cosa m&aacute;s
 
+Otra cosa mas 2
+
 > Nota: Si quieren contactarse conmigo, pueden hacerlo a cualquiera de mis correos personales: gilbertoaguerrero@gmail.com o gilbertolancex@gmail.com
