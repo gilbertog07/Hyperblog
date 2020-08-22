@@ -11,4 +11,8 @@ Hyperblog es un blog de ejemplo, para practicar todo el flujo de git y la intera
 Creado de la nada para prober el cherry-pick.
 Siempre me quedo sin ideas para escribir :D.
 
+Otra cosa m&aacute;s
+
+Otra cosa mas 2
+
 > Nota: Si quieren contactarse conmigo, pueden hacerlo a cualquiera de mis correos personales: gilbertoaguerrero@gmail.com o gilbertolancex@gmail.com
